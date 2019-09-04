@@ -15,3 +15,5 @@
 - draft a rough timeline estimate with high-level milestones
 
 - set up your repository, task tracking tools, test frameworks, CI/CD pipelines, etc.
+
+beep
