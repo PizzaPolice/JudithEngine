@@ -1,0 +1,17 @@
+- identify your development environment and make sure you have all the tools set up
+  * Visual Studio (i'm using 2019, but earlier versions should work)
+  * C# is the primary development language. a custom scripting language or something like Lua may be added in later, but that's not important for now
+  * a compiled version of the MonoGame framework library must be installed on the developer's machine
+  * developers will also need the MonoGame Content Builder application to build assets into the game format
+
+- identify your concept of operations and draft a rough systems-level description of your design approach
+
+- clearly define your statement of work (this is especially important re: engine flexibility)
+
+- define a set of high-level requirements from said concept of operations and statement of work
+
+- draft your software development plans
+
+- draft a rough timeline estimate with high-level milestones
+
+- set up your repository, task tracking tools, test frameworks, CI/CD pipelines, etc.
